@@ -1,0 +1,22 @@
+{
+  "name": "employer-ready-portfolio",
+  "version": "1.0.0",
+  "description": "employer ready portfolio",
+  "main": "portfolio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smatthiae13/Employer-Ready-Portfolio.git"
+  },
+  "author": "Sam Matthiae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smatthiae13/Employer-Ready-Portfolio/issues"
+  },
+  "homepage": "https://github.com/smatthiae13/Employer-Ready-Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
